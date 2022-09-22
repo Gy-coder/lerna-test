@@ -1,6 +1,6 @@
 {
   "name": "@gy-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "Gy <406631892@qq.com>",
   "homepage": "https://github.com/Gy-coder/Gy-coder.github.io#readme",
@@ -25,6 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/Gy-coder/Gy-coder.github.io/issues"
-  },
-  "dependencies": {}
+  }
 }
