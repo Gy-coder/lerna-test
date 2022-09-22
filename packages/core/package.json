@@ -1,6 +1,6 @@
 {
   "name": "@gy-cli/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "Gy <406631892@qq.com>",
   "homepage": "https://github.com/Gy-coder/Gy-coder.github.io#readme",
@@ -30,7 +30,7 @@
     "url": "https://github.com/Gy-coder/Gy-coder.github.io/issues"
   },
   "dependencies": {
-    "@gy-cli/utils": "^1.0.3",
+    "@gy-cli/utils": "^1.0.4",
     "lodash": "^4.17.21"
   },
   "gitHead": "5e0f24c41153a096699fe5b044bd960228255cae"
